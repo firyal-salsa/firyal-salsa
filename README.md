@@ -1,21 +1,17 @@
 # 🃏 Jack of All Trades in IT Stuff
 System Engineer at Enterprise Banking, Indonesia. a tinkerer who loves to create magical things with microcontrollers
 
---
-
 ## 🌍 My Mission
 
 Tech ain't just about codes and circuits. I live by the mission that technology was born to empower living creatures to make Earth a better place. 
-🌱 Enthusiast about **climate change** (SDG 13) and keen on **renewable energy** + **sustainable tech solutions** that actually matter.
+🌱 Enthusiast about climate change (SDG 13) and keen on renewable energy + sustainable tech solutions that actually matter.
 
---
 
 When I'm not crafting tech solutions, you'll find me :
 - 📚 Reading philosophical & classic literature
 - 🗿 Sculpting with clay
 - 🏊 Swimming
 
---
 
 ## 🛠️ Tech Stack & Tools
 
@@ -49,5 +45,5 @@ When I'm not crafting tech solutions, you'll find me :
 ---
 
 <div align="center">
-  <i>"Technology should serve life, not the other way around."</i>
+  <i>"I was taught that the way of progress was neither swift nor easy." -Marie Curie</i>
 </div>
