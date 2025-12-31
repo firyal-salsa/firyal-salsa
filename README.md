@@ -1,25 +1,21 @@
 # 🃏 Jack of All Trades in IT Stuff
+System Engineer at Enterprise Banking, Indonesia. a tinkerer who loves to create magical things with microcontrollers
 
-**System Engineer** at an Enterprise Banking company in Indonesia — a tinkerer who loves to create magical things with microcontrollers.
-
----
+--
 
 ## 🌍 My Mission
 
-Tech ain't just about codes and circuits. I believe **technology was born to empower living creatures to make Earth a better place**. 
-
+Tech ain't just about codes and circuits. I live by the mission that technology was born to empower living creatures to make Earth a better place. 
 🌱 Enthusiast about **climate change** (SDG 13) and keen on **renewable energy** + **sustainable tech solutions** that actually matter.
 
----
+--
 
-## 🎨 When I'm Not Crafting Tech Solutions
-
-You'll find me:
+When I'm not crafting tech solutions, you'll find me :
 - 📚 Reading philosophical & classic literature
 - 🗿 Sculpting with clay
 - 🏊 Swimming
 
----
+--
 
 ## 🛠️ Tech Stack & Tools
 
@@ -39,13 +35,13 @@ You'll find me:
 ## 📬 You Can Hit Me Up At
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/firyal-y-salsabila/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="https://www.instagram.com/your-username" target="_blank">
+  <a href="https://www.instagram.com/viola.tte" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:firsabilac@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40"/>
   </a>
 </p>
