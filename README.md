@@ -19,14 +19,12 @@ When I'm not crafting tech solutions, you'll find me :
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Apache Kafka" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/espressif/espressif-ar21.svg" alt="ESP32" width="80" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Microcontroller/IoT" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/eclipse/mosquitto/master/logo/mosquitto-text-side-28.png" alt="MQTT" width="80" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
 </p>
-
----
 
 ## 📬 You Can Hit Me Up At
 
@@ -41,8 +39,6 @@ When I'm not crafting tech solutions, you'll find me :
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40"/>
   </a>
 </p>
-
----
 
 <div align="center">
   <i>"I was taught that the way of progress was neither swift nor easy." -Marie Curie</i>
