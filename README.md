@@ -3,7 +3,7 @@ System Engineer at Enterprise Banking, Indonesia. a tinkerer who loves to create
 
 ## 🌍 My Mission
 
-Tech ain't just about codes and circuits. I live by the mission that technology was born to empower living creatures to make Earth a better place. 
+Tech ain't just about making things easier without invisible trade-offs. I live by the mission that technology was born to empower living creatures to make Earth a better place. 
 🌱 Enthusiast about climate change (SDG 13) and keen on renewable energy + sustainable tech solutions that actually matter.
 
 
